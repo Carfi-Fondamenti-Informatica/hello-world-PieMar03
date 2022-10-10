@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-   cout<<"Hallo, World"<<endl;
+  
 int main() {
+    count << "Hallo, World" <<endl;
    return 0;
 }
