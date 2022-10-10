@@ -2,6 +2,6 @@
 using namespace std;
   
 int main() {
-    count << "Hallo, World" <<endl;
+    cout<<"Hallo, World"<<endl;
    return 0;
 }
